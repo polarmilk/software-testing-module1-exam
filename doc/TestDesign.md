@@ -109,6 +109,6 @@ TC13 (duplicate of TC4), TC14 (duplicate of TC2), and TC18 (duplicate of TC3).
 |---|---|---|
 | Fault 1 | Equivalence Partition | Incorrect 40% discount instead of 10% |
 | Fault 2 | Boundary Value Analysis | `>= 3500` instead of `> 3500` |
-| Fault 3 | Decision Table | `||` instead of `&&` for Tier 3 |
+| Fault 3 | Decision Table | `\|\|` instead of `&&` for Tier 3 |
 | Fault 4 | Code Coverage | Added code for specific weight `4444` |
 | Fault 5 | Branch Coverage | Added unreachable `weight < 1200` branch inside Tier 2 |
