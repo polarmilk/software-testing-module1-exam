@@ -76,7 +76,7 @@ the infeasible combinations, 12 feasible combinations/rules remain.
 | TC21      | 2500   | FALSE | FALSE     | 0      | Rule 11       |
 | TC22      | 5000   | FALSE | FALSE     | 5      | Rule 12       |
 
-## Test Suite
+## 4. Test Suite
 After combining the test cases from each testing method and removing duplicate cases, the finalized test suite contains 19 unique cases. 
 The following duplicate test cases were removed based on exact matching inputs: 
 TC13 (duplicate of TC4), TC14 (duplicate of TC2), and TC18 (duplicate of TC3).
@@ -103,7 +103,7 @@ TC13 (duplicate of TC4), TC14 (duplicate of TC2), and TC18 (duplicate of TC3).
 | TC18      | 2500   | FALSE | FALSE     | 0 |
 | TC19      | 5000   | FALSE | FALSE     | 5 |
 
-## 4. Fault Injection
+## 5. Fault Injection
 
 | Fault | Testing Technique | Injected Fault |
 |---|---|---|
